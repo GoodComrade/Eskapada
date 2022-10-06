@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1048448576484",
+    "firebase_url": "https://eskapada-unity.firebaseio.com",
+    "project_id": "eskapada-unity",
+    "storage_bucket": "eskapada-unity.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048448576484:android:7c4f244dfdff86c7",
+        "android_client_info": {
+          "package_name": "com.Escapada.EscapadaIoT"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048448576484-s85kt4pfln05bol54ivs9b1u591ihljc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNawLwTEtFg9xscQEalqWhOzM2IsKG4yk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
